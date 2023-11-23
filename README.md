@@ -1,4 +1,4 @@
 # zlib
 A repo to track the zlib compression library 
 
-version 1.2.11
+version 1.3
